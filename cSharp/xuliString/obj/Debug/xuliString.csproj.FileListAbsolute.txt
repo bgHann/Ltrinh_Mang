@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\obj\Debug\xuliString.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\obj\Debug\xuliString.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\bin\Debug\xuliString.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\bin\Debug\xuliString.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\bin\Debug\xuliString.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\obj\Debug\xuliString.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\scr\xuliString\obj\Debug\xuliString.pdb
