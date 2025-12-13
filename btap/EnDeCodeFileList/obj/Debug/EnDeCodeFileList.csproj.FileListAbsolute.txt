@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\bin\Debug\EnDeCodeFileList.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\bin\Debug\EnDeCodeFileList.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\bin\Debug\EnDeCodeFileList.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\obj\Debug\EnDeCodeFileList.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\obj\Debug\EnDeCodeFileList.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\obj\Debug\EnDeCodeFileList.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\EnDeCodeFileList\obj\Debug\EnDeCodeFileList.pdb
