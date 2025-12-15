@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\bin\Debug\TimeSever.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\bin\Debug\TimeSever.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\bin\Debug\TimeSever.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\obj\Debug\TimeSever.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\obj\Debug\TimeSever.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\obj\Debug\TimeSever.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\TimeSever\obj\Debug\TimeSever.pdb

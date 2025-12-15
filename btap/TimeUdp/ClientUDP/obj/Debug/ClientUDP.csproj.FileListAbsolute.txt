@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\bin\Debug\ClientUDP.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\bin\Debug\ClientUDP.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\bin\Debug\ClientUDP.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\obj\Debug\ClientUDP.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\obj\Debug\ClientUDP.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\obj\Debug\ClientUDP.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\timeUDP\ClientUDP\obj\Debug\ClientUDP.pdb
