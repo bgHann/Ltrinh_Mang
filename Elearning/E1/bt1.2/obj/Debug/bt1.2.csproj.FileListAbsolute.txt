@@ -1,0 +1,10 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\bin\Debug\bt1.2.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\bin\Debug\bt1.2.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\bin\Debug\bt1.2.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1.2.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1._2.Properties.Resources.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1.2.csproj.GenerateResource.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1.2.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1.2.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1.2.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.2\obj\Debug\bt1._2.frmUCLN.resources
