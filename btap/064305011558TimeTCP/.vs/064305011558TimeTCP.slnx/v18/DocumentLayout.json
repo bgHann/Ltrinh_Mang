@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\btap\\064305011558TimeTCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E8ADB3-E28D-4525-8F33-34049EA375E2}|TimeTCPServer\\TimeTCPServer.csproj|D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\btap\\064305011558TimeTCP\\timetcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E8ADB3-E28D-4525-8F33-34049EA375E2}|TimeTCPServer\\TimeTCPServer.csproj|solutionrelative:timetcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21ECE8A-B2F2-4A63-8BEE-94CF8E191FF9}|TimeTCPClient\\TimeTCPClient.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\btap\\064305011558timetcp\\timetcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21ECE8A-B2F2-4A63-8BEE-94CF8E191FF9}|TimeTCPClient\\TimeTCPClient.csproj|solutionrelative:timetcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\btap\\064305011558TimeTCP\\TimeTCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "TimeTCPClient\\Program.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\btap\\064305011558TimeTCP\\TimeTCPClient\\Program.cs",
+              "RelativeToolTip": "TimeTCPClient\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:16:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\btap\\064305011558TimeTCP\\TimeTCPServer\\Program.cs",
+              "RelativeDocumentMoniker": "TimeTCPServer\\Program.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\btap\\064305011558TimeTCP\\TimeTCPServer\\Program.cs",
+              "RelativeToolTip": "TimeTCPServer\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:14:10.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

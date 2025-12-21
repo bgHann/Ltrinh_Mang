@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TimeTCPClient/TimeTCPClient.csproj" Id="a21ece8a-b2f2-4a63-8bee-94cf8e191ff9" />
+  <Project Path="TimeTCPServer/TimeTCPServer.csproj" Id="e2e8adb3-e28d-4525-8f33-34049ea375e2" />
+</Solution>

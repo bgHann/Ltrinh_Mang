@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\bin\Debug\TimeTCPClient.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\bin\Debug\TimeTCPClient.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\bin\Debug\TimeTCPClient.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\obj\Debug\TimeTCPClient.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\obj\Debug\TimeTCPClient.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\obj\Debug\TimeTCPClient.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\btap\064305011558TimeTCP\TimeTCPClient\obj\Debug\TimeTCPClient.pdb
