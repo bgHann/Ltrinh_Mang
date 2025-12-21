@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\bin\Debug\bt1.3.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\bin\Debug\bt1.3.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\bin\Debug\bt1.3.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\obj\Debug\bt1.3.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\obj\Debug\bt1.3.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\obj\Debug\bt1.3.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.3_Xulichuoi\bt1.3\obj\Debug\bt1.3.pdb

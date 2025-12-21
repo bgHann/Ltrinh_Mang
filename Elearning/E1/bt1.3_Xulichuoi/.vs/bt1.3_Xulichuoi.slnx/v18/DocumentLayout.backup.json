@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.3_Xulichuoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F9882B-889C-4BD7-9C47-1A9615BF07C9}|bt1.3\\bt1.3.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e1\\bt1.3_xulichuoi\\bt1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F9882B-889C-4BD7-9C47-1A9615BF07C9}|bt1.3\\bt1.3.csproj|solutionrelative:bt1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.3_Xulichuoi\\bt1.3\\Program.cs",
+              "RelativeDocumentMoniker": "bt1.3\\Program.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.3_Xulichuoi\\bt1.3\\Program.cs",
+              "RelativeToolTip": "bt1.3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:54:30.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
