@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\bin\Debug\bt1.4_064305011558_MyDNS.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\bin\Debug\bt1.4_064305011558_MyDNS.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\bin\Debug\bt1.4_064305011558_MyDNS.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\obj\Debug\bt1.4_064305011558_MyDNS.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\obj\Debug\bt1.4_064305011558_MyDNS.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\obj\Debug\bt1.4_064305011558_MyDNS.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.4_064305011558_MyDNS\bt1.4_064305011558_MyDNS\obj\Debug\bt1.4_064305011558_MyDNS.pdb
