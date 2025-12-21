@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.5_chatSimpleGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88765682-644E-44B6-B182-A5D871A269B0}|bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e1\\bt1.5_chatsimplegui\\bt1.5_chatsimplegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88765682-644E-44B6-B182-A5D871A269B0}|bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI.csproj|solutionrelative:bt1.5_chatsimplegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88765682-644E-44B6-B182-A5D871A269B0}|bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e1\\bt1.5_chatsimplegui\\bt1.5_chatsimplegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88765682-644E-44B6-B182-A5D871A269B0}|bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI.csproj|solutionrelative:bt1.5_chatsimplegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "bt1.5_chatSimpleGUI\\Form1.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI\\Form1.cs*",
+              "RelativeToolTip": "bt1.5_chatSimpleGUI\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:11:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "bt1.5_chatSimpleGUI\\Form1.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E1\\bt1.5_chatSimpleGUI\\bt1.5_chatSimpleGUI\\Form1.cs [Design]*",
+              "RelativeToolTip": "bt1.5_chatSimpleGUI\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:05:59.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

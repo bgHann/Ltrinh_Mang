@@ -1,0 +1,10 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1.5_chatSimpleGUI.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1._5_chatSimpleGUI.Form1.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1._5_chatSimpleGUI.Properties.Resources.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1.5_chatSimpleGUI.csproj.GenerateResource.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1.5_chatSimpleGUI.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\bin\Debug\bt1.5_chatSimpleGUI.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\bin\Debug\bt1.5_chatSimpleGUI.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\bin\Debug\bt1.5_chatSimpleGUI.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1.5_chatSimpleGUI.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\bt1.5_chatSimpleGUI\bt1.5_chatSimpleGUI\obj\Debug\bt1.5_chatSimpleGUI.pdb
