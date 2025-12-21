@@ -1,0 +1,15 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\bin\Debug\net10.0\e1_1.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\bin\Debug\net10.0\e1_1.deps.json
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\bin\Debug\net10.0\e1_1.runtimeconfig.json
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\bin\Debug\net10.0\e1_1.dll
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\bin\Debug\net10.0\e1_1.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.AssemblyInfoInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.AssemblyInfo.cs
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.sourcelink.json
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.dll
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\refint\e1_1.dll
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\e1_1.genruntimeconfig.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E1\e1_1\obj\Debug\net10.0\ref\e1_1.dll
