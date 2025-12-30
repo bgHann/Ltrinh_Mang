@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\bin\Debug\Client_TCP.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\bin\Debug\Client_TCP.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\bin\Debug\Client_TCP.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\obj\Debug\Client_TCP.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\obj\Debug\Client_TCP.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\obj\Debug\Client_TCP.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.2\Client_TCP\obj\Debug\Client_TCP.pdb

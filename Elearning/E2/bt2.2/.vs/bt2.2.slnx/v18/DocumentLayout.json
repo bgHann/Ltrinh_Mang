@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E2\\bt2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67432AAE-2004-4246-9886-09D44988B10E}|Sever_TCP\\Sever_TCP.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e2\\bt2.2\\sever_tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67432AAE-2004-4246-9886-09D44988B10E}|Sever_TCP\\Sever_TCP.csproj|solutionrelative:sever_tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF946E21-B213-41C2-AC57-5CFE0CA50035}|Client_TCP\\Client_TCP.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e2\\bt2.2\\client_tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF946E21-B213-41C2-AC57-5CFE0CA50035}|Client_TCP\\Client_TCP.csproj|solutionrelative:client_tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E2\\bt2.2\\Client_TCP\\Program.cs",
+              "RelativeDocumentMoniker": "Client_TCP\\Program.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E2\\bt2.2\\Client_TCP\\Program.cs",
+              "RelativeToolTip": "Client_TCP\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:35:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E2\\bt2.2\\Sever_TCP\\Program.cs",
+              "RelativeDocumentMoniker": "Sever_TCP\\Program.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E2\\bt2.2\\Sever_TCP\\Program.cs",
+              "RelativeToolTip": "Sever_TCP\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:34:50.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
