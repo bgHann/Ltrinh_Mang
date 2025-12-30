@@ -157,6 +157,8 @@
 			this.txtMessage.Name = "txtMessage";
 			this.txtMessage.Size = new System.Drawing.Size(450, 31);
 			this.txtMessage.TabIndex = 0;
+			this.txtMessage.Text = "dhg";
+			
 			// 
 			// groupBox4
 			// 
