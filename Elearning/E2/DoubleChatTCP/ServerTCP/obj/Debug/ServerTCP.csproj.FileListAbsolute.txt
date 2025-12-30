@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\bin\Debug\ServerTCP.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\obj\Debug\ServerTCP.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\obj\Debug\ServerTCP.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\ServerTCP\obj\Debug\ServerTCP.pdb

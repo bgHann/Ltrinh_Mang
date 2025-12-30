@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\bin\Debug\Client.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\bin\Debug\Client.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\bin\Debug\Client.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\obj\Debug\Client.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\DoubleChatTCP\Client\obj\Debug\Client.pdb
