@@ -1,0 +1,10 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\bin\Debug\SimpleChat.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.Form1.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.Properties.Resources.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.csproj.GenerateResource.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.1\SimpleChat\obj\Debug\SimpleChat.pdb
