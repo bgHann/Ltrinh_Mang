@@ -1,0 +1,10 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\bin\Debug\UDPTimeClient.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\bin\Debug\UDPTimeClient.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\bin\Debug\UDPTimeClient.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.Form1.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.Properties.Resources.resources
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.csproj.GenerateResource.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E4\b4.2\UDPTimeClient\obj\Debug\UDPTimeClient.pdb

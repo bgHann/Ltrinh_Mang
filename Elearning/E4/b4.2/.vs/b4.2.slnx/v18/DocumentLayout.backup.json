@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB8CD73-E144-4E78-A2D4-956D718A6A50}|UDPTimeClient\\UDPTimeClient.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e4\\b4.2\\udptimeclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB8CD73-E144-4E78-A2D4-956D718A6A50}|UDPTimeClient\\UDPTimeClient.csproj|solutionrelative:udptimeclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB8CD73-E144-4E78-A2D4-956D718A6A50}|UDPTimeClient\\UDPTimeClient.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e4\\b4.2\\udptimeclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFB8CD73-E144-4E78-A2D4-956D718A6A50}|UDPTimeClient\\UDPTimeClient.csproj|solutionrelative:udptimeclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9CFA0B-BFC6-4B3E-8205-0861AD4D4E65}|UDPTimeServer\\UDPTimeServer.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e4\\b4.2\\udptimeserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9CFA0B-BFC6-4B3E-8205-0861AD4D4E65}|UDPTimeServer\\UDPTimeServer.csproj|solutionrelative:udptimeserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9CFA0B-BFC6-4B3E-8205-0861AD4D4E65}|UDPTimeServer\\UDPTimeServer.csproj|d:\\giahan\\cn2304clca\\it_major\\lt_mang\\ltrinh_mang\\elearning\\e4\\b4.2\\udptimeserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC9CFA0B-BFC6-4B3E-8205-0861AD4D4E65}|UDPTimeServer\\UDPTimeServer.csproj|solutionrelative:udptimeserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeClient\\Form1.cs",
+              "RelativeDocumentMoniker": "UDPTimeClient\\Form1.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeClient\\Form1.cs",
+              "RelativeToolTip": "UDPTimeClient\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswE0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:07:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeClient\\Form1.cs",
+              "RelativeDocumentMoniker": "UDPTimeClient\\Form1.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeClient\\Form1.cs [Design]",
+              "RelativeToolTip": "UDPTimeClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:58:46.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeServer\\Form1.cs",
+              "RelativeDocumentMoniker": "UDPTimeServer\\Form1.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeServer\\Form1.cs",
+              "RelativeToolTip": "UDPTimeServer\\Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:49:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeServer\\Form1.cs",
+              "RelativeDocumentMoniker": "UDPTimeServer\\Form1.cs",
+              "ToolTip": "D:\\GIAHAN\\CN2304CLCA\\IT_Major\\lt_mang\\Ltrinh_Mang\\Elearning\\E4\\b4.2\\UDPTimeServer\\Form1.cs [Design]",
+              "RelativeToolTip": "UDPTimeServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:49:28.009Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
