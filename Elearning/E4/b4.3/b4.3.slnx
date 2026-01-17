@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TCPFileClient/TCPFileClient.csproj" />
+  <Project Path="TCPFileServer/TCPFileServer.csproj" />
+</Solution>
