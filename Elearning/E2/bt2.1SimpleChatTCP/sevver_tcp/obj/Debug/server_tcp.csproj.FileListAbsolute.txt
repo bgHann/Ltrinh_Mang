@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\bin\Debug\sevver_tcp.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\bin\Debug\sevver_tcp.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\bin\Debug\sevver_tcp.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\obj\Debug\server_tcp.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\obj\Debug\server_tcp.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\obj\Debug\sevver_tcp.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\sevver_tcp\obj\Debug\sevver_tcp.pdb

@@ -1,0 +1,7 @@
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\bin\Debug\client_tcp.exe.config
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\bin\Debug\client_tcp.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\bin\Debug\client_tcp.pdb
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\obj\Debug\client_tcp.csproj.AssemblyReference.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\obj\Debug\client_tcp.csproj.CoreCompileInputs.cache
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\obj\Debug\client_tcp.exe
+D:\GIAHAN\CN2304CLCA\IT_Major\lt_mang\Ltrinh_Mang\Elearning\E2\bt2.1SimpleChatTCP\client_tcp\obj\Debug\client_tcp.pdb
